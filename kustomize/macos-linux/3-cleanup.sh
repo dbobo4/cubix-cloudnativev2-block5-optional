@@ -1,4 +1,4 @@
 #!/bin/sh
 
-kubectl delete namespace op4-kustomize-test
-kubectl delete namespace op4-kustomize-prod
+kubectl delete namespace op5-kustomize-test
+kubectl delete namespace op5-kustomize-prod

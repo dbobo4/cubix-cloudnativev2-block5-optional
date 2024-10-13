@@ -1,3 +1,3 @@
 #!/bin/sh
 
-kubectl delete namespace op4-helm
+kubectl delete namespace op5-helm

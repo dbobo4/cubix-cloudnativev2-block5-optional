@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: op4-kustomize-test
+  name: op5-kustomize-test

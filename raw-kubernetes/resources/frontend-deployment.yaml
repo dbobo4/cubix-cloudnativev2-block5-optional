@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: frontend
-  namespace: op4-kube-frontend
+  namespace: op5-kube-frontend
 spec:
   replicas: 1
   template:

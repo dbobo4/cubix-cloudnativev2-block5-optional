@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: op4-kube-frontend
+  name: op5-kube-frontend

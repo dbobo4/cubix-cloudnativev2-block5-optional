@@ -1,4 +1,4 @@
 #!/bin/sh
 
-kubectl delete namespace op4-kube-frontend
-kubectl delete namespace op4-kube-backend
+kubectl delete namespace op5-kube-frontend
+kubectl delete namespace op5-kube-backend
