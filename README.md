@@ -1,3 +1,3 @@
-# Fifth optional assignment
+﻿# Cubix HELM optional homework - Adam Kovacs
 
-Try and fix the errors in these scenarios.
+Fixed optional scenarios: raw-kubernetes, kustomize, helm
