@@ -1,4 +1,4 @@
-apiVersion: apps/v1
+﻿apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: frontend
@@ -19,7 +19,7 @@ spec:
         image: quay.io/drsylent/cubix/block5v2/optional-frontend:springboot3
         env:
         - name: BACKEND_URL
-          value: http://backend:8080
+          value: http://backend
         ports:
         - containerPort: 8080
           name: web

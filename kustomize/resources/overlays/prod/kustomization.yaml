@@ -1,3 +1,4 @@
-namespace: op5-kustomize-prod
+﻿namespace: op5-kustomize-prod
 resources:
+- ../../base
 - ingress.yaml
