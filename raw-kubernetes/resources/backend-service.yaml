@@ -1,10 +1,12 @@
-apiVersion: v1
+﻿apiVersion: v1
 kind: Service
 metadata:
   name: backend
   namespace: op5-kube-backend
 spec:
   ports:
-    - name: web
-      port: 8080
-      targetPort: web
+  - name: web
+    port: 8080
+    targetPort: web
+  selector:
+    app: backend
